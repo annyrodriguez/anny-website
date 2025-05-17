@@ -1,0 +1,24 @@
+---
+title: ""
+---
+
+<video autoplay muted loop playsinline 
+         style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;"> <source src="projects.mp4" type="video/mp4"> </video>
+
+# Selected Projects
+
+## [Predictive Analytics for Cancer Screening]{style="color: #F055A5;"}
+
+Used machine learning algorithms on EHR data to identify populations at risk of missing breast and cervical cancer screenings. Funded by Microsoft - publication forthcoming.
+
+## [Doctoral Dissertation ShinyApp]{style="color: #FF9B28;"}
+
+My dissertation project focused on identifying spatial and sociodemographic disparities in breast and cervical cancer screening across Florida using advanced data visualization and geographic information systems (GIS). Leveraging publicly available cancer screening and population health data, I developed an interactive ShinyApp to map screening rates and examine associations with social vulnerability, race/ethnicity, and rural-urban classification. The project highlights key areas with low screening uptake and high vulnerability, offering actionable insights to guide targeted public health interventions and resource allocation. <a href="https://annyrodriguez.shinyapps.io/Breast-and-Cervical-Cancer/" target="_blank">Screening for Me</a>
+
+## [COVID-19 Dashboard]{style="color: #DAA520;"}
+
+Developed a ShinyApp to visualize COVID-19 trends in Florida counties, integrating case rates, hospitalizations, and vaccination data. This was my first attempt at a ShinyApp. <a href="https://annyrodriguez.shinyapps.io/COVID19/" target="_blank">COVID-19 Dashboard</a>
+
+## [Clinical Trial Recruitment Optimization]{style="color: #7A88FE;"}
+
+Applied natural language processing to recruitment call transcripts to enhance diverse participant enrollment strategies.

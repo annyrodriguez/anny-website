@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "resume.html#assistant-professor",
+    "href": "resume.html#assistant-professor",
+    "title": "Education",
+    "section": "Assistant Professor",
+    "text": "Assistant Professor\nMorehouse School of Medicine, Department of Public Health Education\n2024 – Present\n- Teach graduate-level courses in Epidemiology, Biostatistics, and Health Informatics\n- Develop and lead curriculum design for MPH and PhD programs\n- Mentor students in research, data science, and scientific writing"
+  },
+  {
+    "objectID": "resume.html#postdoctoral-fellow",
+    "href": "resume.html#postdoctoral-fellow",
+    "title": "Education",
+    "section": "Postdoctoral Fellow",
+    "text": "Postdoctoral Fellow\nStanford University School of Medicine, Department of Biomedical Data Science\n2023 – 2024\n- Conducted research on AI/ML applications in health equity\n- Collaborated on interdisciplinary projects in clinical informatics\n- Mentored students in statistical computing and reproducible research"
+  },
+  {
+    "objectID": "resume.html#covid-19-data-analyst-covid-19-task-force",
+    "href": "resume.html#covid-19-data-analyst-covid-19-task-force",
+    "title": "Education",
+    "section": "COVID-19 Data Analyst – COVID-19 Task Force",
+    "text": "COVID-19 Data Analyst – COVID-19 Task Force\nFlorida International University, Department of Epidemiology\nAug 2021 – Dec 2023\n- Led data compilation and curation of COVID-19 surveillance data from CDC and FL DOH\n- Built an interactive Shiny dashboard to visualize county-level COVID-19 trends in real-time\n- Applied statistical modeling and spatial analysis to support public health decision-making"
+  },
+  {
+    "objectID": "resume.html#clinical-research-coordinator",
+    "href": "resume.html#clinical-research-coordinator",
+    "title": "Education",
+    "section": "Clinical Research Coordinator",
+    "text": "Clinical Research Coordinator\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nJune 2019 – Aug 2020\n- Managed NIH and industry-funded stroke clinical trials, ensuring compliance and data integrity\n- Maintained IRB submissions, adverse event reporting, and study documentation\n- Created training protocols and managed clinical databases for multi-site studies"
+  },
+  {
+    "objectID": "resume.html#research-support-specialist",
+    "href": "resume.html#research-support-specialist",
+    "title": "Education",
+    "section": "Research Support Specialist",
+    "text": "Research Support Specialist\nUniversity of Miami, Miller School of Medicine – Department of Neurology\nAug 2018 – June 2019\n- Conducted statistical analyses on stroke datasets using SPSS and SAS - Developed REDCap databases to streamline registry-based data collection\n- Supported statewide research initiatives through hospital coordination and data sharing"
+  },
+  {
+    "objectID": "resume.html#research-analyst",
+    "href": "resume.html#research-analyst",
+    "title": "Education",
+    "section": "Research Analyst",
+    "text": "Research Analyst\nBascom Palmer Eye Institute – Department of Biostatistics\nAug 2016 – Aug 2018\n- Performed statistical analyses for 20+ NIH- and NEI-funded ophthalmic studies\n- Synthesized and interpreted results for manuscripts, abstracts, and presentations\n- Ensured regulatory compliance with IRB protocols and adverse event reporting"
+  },
+  {
+    "objectID": "courses.html#resources-coming-soon",
+    "href": "courses.html#resources-coming-soon",
+    "title": "Courses I’m Teaching",
+    "section": "Resources coming soon!",
+    "text": "Resources coming soon!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Anny D. Rodriguez, Ph.D., MPH",
+    "section": "",
+    "text": "I am always looking for ways to collaborate, please feel free to reach me using any of the following:\n\n📧 Email: adrodriguez@msm.edu | annydrodriguez7@gmail.com\n🔗 LinkedIn Profile\n🔗 Github Profile\n🏛 Morehouse School of Medicine"
+  },
+  {
+    "objectID": "projects.html#predictive-analytics-for-cancer-screening",
+    "href": "projects.html#predictive-analytics-for-cancer-screening",
+    "title": "Selected Projects",
+    "section": "Predictive Analytics for Cancer Screening",
+    "text": "Predictive Analytics for Cancer Screening\nUsed machine learning algorithms on EHR data to identify populations at risk of missing breast and cervical cancer screenings. Funded by Microsoft - publication forthcoming."
+  },
+  {
+    "objectID": "projects.html#doctoral-dissertation-shinyapp",
+    "href": "projects.html#doctoral-dissertation-shinyapp",
+    "title": "Selected Projects",
+    "section": "Doctoral Dissertation ShinyApp",
+    "text": "Doctoral Dissertation ShinyApp\nMy dissertation project focused on identifying spatial and sociodemographic disparities in breast and cervical cancer screening across Florida using advanced data visualization and geographic information systems (GIS). Leveraging publicly available cancer screening and population health data, I developed an interactive ShinyApp to map screening rates and examine associations with social vulnerability, race/ethnicity, and rural-urban classification. The project highlights key areas with low screening uptake and high vulnerability, offering actionable insights to guide targeted public health interventions and resource allocation. Screening for Me"
+  },
+  {
+    "objectID": "projects.html#covid-19-dashboard",
+    "href": "projects.html#covid-19-dashboard",
+    "title": "Selected Projects",
+    "section": "COVID-19 Dashboard",
+    "text": "COVID-19 Dashboard\nDeveloped a ShinyApp to visualize COVID-19 trends in Florida counties, integrating case rates, hospitalizations, and vaccination data. This was my first attempt at a ShinyApp. COVID-19 Dashboard"
+  },
+  {
+    "objectID": "projects.html#clinical-trial-recruitment-optimization",
+    "href": "projects.html#clinical-trial-recruitment-optimization",
+    "title": "Selected Projects",
+    "section": "Clinical Trial Recruitment Optimization",
+    "text": "Clinical Trial Recruitment Optimization\nApplied natural language processing to recruitment call transcripts to enhance diverse participant enrollment strategies."
+  }
+]

@@ -1,0 +1,34 @@
+---
+title: ""
+---
+
+<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 2rem;">
+  <video autoplay muted loop playsinline 
+         style="width: 100%; max-width: 1000px; height: auto; display: block; border: none;">
+    <source src="courses.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+# <span style="color: #F055A5;">Courses I'm Teaching</span>
+
+- Introduction to Epidemiology
+- Introduction to Biostatistics
+- R and Health Sciences
+
+## <span style="color: #F055A5;">Resources coming soon!</span>
+
+# <span style="color: #7A88FE;">Courses I've Taught</span>
+
+- Introduction to Epidemiology
+- Epidemiology II - Observational Design
+- Cancer Epidemiology
+- Epidemiology of Health Disparities
+- Methods in Evidence-Based Public Health
+- Advanced R Computing
+
+# <span style="color: #FF9B28;">Courses Being Developed</span>
+
+I am in the process of finalizing a new concentration within our MPH program, but also developing a PhD program as well.
+
+If you would like to collaborate, please feel free to connect!
